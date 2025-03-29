@@ -30,11 +30,11 @@
 
 ### 📊 My Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavinthaD&show_icons=true&theme=radical" alt="KavinthaD stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KavinthaD&show_icons=true&theme=radical&cache_seconds=86400" alt="KavinthaD stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinthaD&layout=compact&theme=radical" alt="KavinthaD top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinthaD&layout=compact&theme=radical&cache_seconds=86400" alt="KavinthaD top languages" />
 </p>
 
 ---
